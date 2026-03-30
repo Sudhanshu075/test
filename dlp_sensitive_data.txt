@@ -1,0 +1,144 @@
+CONFIDENTIAL COMPANY DATABASE - TEST FILE
+==========================================
+
+*** This is a test file with FAKE data for DLP testing purposes ***
+*** All data is algorithmically valid but NOT real personal information ***
+
+EMPLOYEE RECORDS - SOCIAL SECURITY NUMBERS (10+ valid SSN):
+============================================================
+
+1. John Doe - SSN: 078-05-1120 - Email: john.doe@company.com
+2. Jane Smith - SSN: 219-09-1234 - Email: jane.smith@internal.org
+3. Mike Johnson - SSN: 667-05-2219 - Email: mike.johnson@corp.com
+4. Sarah Williams - SSN: 547-90-1234 - Email: sarah.williams@company.com
+5. David Brown - SSN: 123-45-6789 - Email: david.brown@internal.org
+6. Lisa Davis - SSN: 234-56-7890 - Email: lisa.davis@corp.com
+7. Robert Miller - SSN: 345-67-8901 - Email: robert.miller@company.com
+8. Jennifer Wilson - SSN: 456-78-9012 - Email: jennifer.wilson@internal.org
+9. Christopher Moore - SSN: 567-89-0123 - Email: christopher.moore@corp.com
+10. Amanda Taylor - SSN: 678-90-1234 - Email: amanda.taylor@company.com
+11. Daniel Anderson - SSN: 789-01-2345 - Email: daniel.anderson@internal.org
+12. Michelle Thomas - SSN: 890-12-3456 - Email: michelle.thomas@corp.com
+
+CREDIT CARDS - LUHN ALGORITHM VALID (10+ valid CC):
+====================================================
+
+1. Visa: 4532015112830366 - Holder: John Doe - Exp: 12/26
+2. Visa: 4716059495828765 - Holder: Jane Smith - Exp: 08/27
+3. Visa: 4024007117308047 - Holder: Mike Johnson - Exp: 05/28
+4. MasterCard: 5425233430109903 - Holder: Sarah Williams - Exp: 03/26
+5. MasterCard: 5555555555554444 - Holder: David Brown - Exp: 11/27
+6. MasterCard: 5105105105105100 - Holder: Lisa Davis - Exp: 07/28
+7. Amex: 374245455400126 - Holder: Robert Miller - Exp: 09/26
+8. Amex: 378282246310005 - Holder: Jennifer Wilson - Exp: 01/28
+9. Amex: 371449635398431 - Holder: Christopher Moore - Exp: 04/27
+10. Discover: 6011111111111117 - Holder: Amanda Taylor - Exp: 12/27
+11. Discover: 6011000990139424 - Holder: Daniel Anderson - Exp: 06/26
+12. Discover: 6011981111111113 - Holder: Michelle Thomas - Exp: 10/28
+
+PHONE NUMBERS (10+ examples):
+=============================
+
+1. Direct Office: (555) 123-4567
+2. HR Department: (555) 234-5678
+3. Sales Team: (555) 345-6789
+4. Support Line: (555) 456-7890
+5. Finance Dept: (555) 567-8901
+6. Legal Office: (555) 678-9012
+7. IT Helpdesk: (555) 789-0123
+8. Security Team: (555) 890-1234
+9. Management: (555) 901-2345
+10. Emergency Line: (555) 012-3456
+11. International: +1-800-555-0199
+12. Toll-Free: 1-800-555-1234
+
+EMAIL ADDRESSES (10+ examples):
+===============================
+
+1. john.doe@company.com
+2. jane.smith@internal.org
+3. mike.johnson@corp.com
+4. sarah.williams@company.com
+5. david.brown@internal.org
+6. lisa.davis@corp.com
+7. robert.miller@company.com
+8. jennifer.wilson@internal.org
+9. christopher.moore@corp.com
+10. amanda.taylor@company.com
+11. admin@confidential.org
+12. support@sensitive-data.com
+
+BANK ACCOUNT NUMBERS WITH ROUTING (10+ valid):
+===============================================
+
+1. Account: 1234567890 - Routing: 021000021 - Bank: Chase
+2. Account: 2345678901 - Routing: 121000248 - Bank: Wells Fargo
+3. Account: 3456789012 - Routing: 111000025 - Bank: Bank of America
+4. Account: 4567890123 - Routing: 026009593 - Bank: Citibank
+5. Account: 5678901234 - Routing: 124003116 - Bank: US Bank
+6. Account: 6789012345 - Routing: 053101561 - Bank: PNC Bank
+7. Account: 7890123456 - Routing: 091000019 - Bank: TD Bank
+8. Account: 8901234567 - Routing: 063100277 - Bank: Regions Bank
+9. Account: 9012345678 - Routing: 102001017 - Bank: Capital One
+10. Account: 0123456789 - Routing: 125008547 - Bank: BB&T
+11. Account: 1122334455 - Routing: 071926809 - Bank: Fifth Third
+12. Account: 2233445566 - Routing: 043000096 - Bank: Truist
+
+DRIVER LICENSE NUMBERS (10+ examples):
+======================================
+
+1. DL: D12345678 (NY format)
+2. DL: A123456789 (CA format)
+3. DL: 123456789 (FL format)
+4. DL: S12345678901234 (TX format)
+5. DL: P123456789012 (PA format)
+6. DL: O1234567890123 (OH format)
+7. DL: M123456789012 (MI format)
+8. DL: G123456789012 (GA format)
+9. DL: N12345678901234 (NC format)
+10. DL: V123456789 (VA format)
+11. DL: W1234567890123 (WA format)
+12. DL: I123456789012 (IL format)
+
+MEDICAL RECORD NUMBERS (10+ examples):
+======================================
+
+1. Patient ID: MRN-123456789 - DOB: 01/15/1985
+2. Patient ID: MRN-234567890 - DOB: 03/22/1978
+3. Patient ID: MRN-345678901 - DOB: 07/08/1992
+4. Patient ID: MRN-456789012 - DOB: 11/30/1980
+5. Patient ID: MRN-567890123 - DOB: 05/17/1975
+6. Patient ID: MRN-678901234 - DOB: 09/04/1988
+7. Patient ID: MRN-789012345 - DOB: 12/25/1973
+8. Patient ID: MRN-890123456 - DOB: 02/14/1990
+9. Patient ID: MRN-901234567 - DOB: 08/11/1982
+10. Patient ID: MRN-012345678 - DOB: 06/03/1987
+11. Patient ID: MRN-987654321 - DOB: 04/29/1995
+12. Patient ID: MRN-876543210 - DOB: 10/07/1968
+
+DATE OF BIRTH (10+ examples):
+=============================
+
+DOB: 01/15/1985, DOB: 03/22/1978, DOB: 07/08/1992
+DOB: 11/30/1980, DOB: 05/17/1975, DOB: 09/04/1988
+DOB: 12/25/1973, DOB: 02/14/1990, DOB: 08/11/1982
+DOB: 06/03/1987, DOB: 04/29/1995, DOB: 10/07/1968
+
+IP ADDRESSES (10+ examples):
+============================
+
+1. Internal: 192.168.1.100
+2. Internal: 192.168.1.101
+3. Internal: 10.0.0.50
+4. Internal: 10.0.0.51
+5. Internal: 172.16.0.10
+6. External: 203.0.113.15
+7. External: 198.51.100.25
+8. External: 192.0.2.30
+9. Server: 172.16.0.1
+10. Gateway: 192.168.1.1
+11. DNS: 8.8.8.8
+12. Backup: 172.16.0.200
+
+*** END OF TEST DATA ***
+*** Remember: All data is FAKE but algorithmically valid for DLP testing ***
